@@ -1,0 +1,1 @@
+export type AppointmentStatus = 'pendiente' | 'confirmada' | 'completada' | 'cancelada';
